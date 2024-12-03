@@ -1,0 +1,37 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "tab_bar_title_1",
+      "value": "首页"
+    },
+    {
+      "name": "tab_bar_title_2",
+      "value": "论坛"
+    },
+    {
+      "name": "tab_bar_title_3",
+      "value": "服务"
+    },
+
+    {
+      "name": "tab_bar_title_4",
+      "value": "我的"
+    },
+    {
+      "name": "heart",
+      "value": "♥"
+    }
+  ]
+}
